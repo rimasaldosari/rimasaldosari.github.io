@@ -19,7 +19,7 @@
 9. [Performance & Accessibility | الأداء وإمكانية الوصول](#9-performance--accessibility--الأداء-وإمكانية-الوصول)
 10. [Running Locally & Deployment | التشغيل والنشر](#10-running-locally--deployment--التشغيل-والنشر)
 11. [Contact | التواصل](#11-contact--التواصل)
-12. [Appendix | الملحق](#12-appendix--الملحق)
+
 
 ---
 
