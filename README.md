@@ -27,7 +27,7 @@
 
 **البورتفوليو** هو الموقع الشخصي لـ **ريماس الدوسري**، طالبة علوم حاسب متخصصة في الذكاء الاصطناعي والنماذج التوليدية ووكلاء الذكاء الاصطناعي (AI Agents). يعمل الموقع كواجهة تعريفية احترافية تجمع نبذة شخصية، أبرز المشاريع التقنية، ووسيلة تواصل مباشرة — مبني بالكامل بتقنيات ويب أساسية (HTML/CSS/JS) دون أي إطار عمل (Framework)، ومستضاف مجانًا عبر GitHub Pages.
 
-**RAFID Portfolio** is the personal website of **Rimas Aldosari**, a Computer Science student specializing in AI, generative models, and AI agents. The site serves as a professional introduction hub combining a personal bio, featured technical projects, and a direct contact channel — built entirely with core web technologies (HTML/CSS/JS), with no framework dependency, and hosted for free via GitHub Pages.
+** Portfolio** is the personal website of **Rimas Aldosari**, a Computer Science student specializing in AI, generative models, and AI agents. The site serves as a professional introduction hub combining a personal bio, featured technical projects, and a direct contact channel — built entirely with core web technologies (HTML/CSS/JS), with no framework dependency, and hosted for free via GitHub Pages.
 
 ---
 
