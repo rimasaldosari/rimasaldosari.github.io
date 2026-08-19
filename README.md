@@ -129,12 +129,10 @@ Google Fonts (Tajawal, JetBrains Mono) — عبر CDN خارجي
 | [محاكاة إدارة الحشود 2034](https://github.com/rimasaldosari/crowd-management-2034) | نظام محاكاة ذكي لإدارة الحشود، طُوّر ضمن هاكاثون Mega Future بمناسبة كأس العالم 2034 | AI Simulation, Crowd Management |
 
 <p align="center">
-  <img src="assets/images/ai-agent-builder.jpg" width="480" alt="محرر بناء وكيل ذكاء اصطناعي">
   <br><em>محرر بناء وكيل الذكاء الاصطناعي — عقدة AI Agent متصلة بذاكرة، نموذج، وأدوات بحث</em>
 </p>
 
 <p align="center">
-  <img src="assets/images/rafid-app-screenshots.jpg" width="480" alt="لقطات شاشة لتطبيق رافد">
   <br><em>لقطات من تطبيق رافد: تسجيل الدخول، الرئيسية، ودرجة الجاهزية الائتمانية</em>
 </p>
 
@@ -182,16 +180,3 @@ python3 -m http.server 8000
 - 💼 LinkedIn: [rimas-aldosari](https://www.linkedin.com/in/rimas-aldosari-656a23375)
 - 🐙 GitHub: [@rimasaldosari](https://github.com/rimasaldosari)
 
----
-
-## 12. Appendix | الملحق
-
-### الرخصة | License
-هذا المشروع مرخّص تحت [رخصة MIT](LICENSE).
-
-### ملاحظات تقنية | Technical Notes
-- تم استخراج الصور من صيغة Base64 المدمجة سابقًا داخل HTML إلى ملفات مستقلة في `assets/images/` لتحسين الأداء وسهولة الصيانة.
-- الـ CSS وJavaScript مدمجين عمدًا داخل `index.html` (وليسا في ملفات منفصلة) لتبسيط رفع المشروع وتعديله عبر واجهة GitHub مباشرة، مع تفادي مشاكل الروابط النسبية بين الملفات.
-
-### الفريق | Team
-- **ريماس الدوسري** — تصميم، تطوير، ومحتوى كامل الموقع
