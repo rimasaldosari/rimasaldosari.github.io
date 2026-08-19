@@ -16,9 +16,8 @@
 6. [Tech Stack & Project Structure | التقنيات وبنية المشروع](#6-tech-stack--project-structure--التقنيات-وبنية-المشروع)
 7. [Featured Projects | المشاريع البارزة](#7-featured-projects--المشاريع-البارزة)
 8. [Visitor Journey | رحلة الزائر](#8-visitor-journey--رحلة-الزائر)
-9. [Performance & Accessibility | الأداء وإمكانية الوصول](#9-performance--accessibility--الأداء-وإمكانية-الوصول)
-10. [Running Locally & Deployment | التشغيل والنشر](#10-running-locally--deployment--التشغيل-والنشر)
-11. [Contact | التواصل](#11-contact--التواصل)
+9. [Running Locally & Deployment | التشغيل والنشر](#10-running-locally--deployment--التشغيل-والنشر)
+10. [Contact | التواصل](#11-contact--التواصل)
 
 
 ---
@@ -145,16 +144,6 @@ Google Fonts (Tajawal, JetBrains Mono) — عبر CDN خارجي
 3. **نبذة عني** → فهم سريع للخلفية الأكاديمية والاهتمامات
 4. **المشاريع** → استعراض الأعمال الفعلية مع إمكانية الانتقال المباشر لكود كل مشروع على GitHub
 5. **التواصل** → دعوة واضحة لإجراء (Call-to-Action) عبر البريد أو لينكد إن
-
----
-
-## 9. Performance & Accessibility | الأداء وإمكانية الوصول
-
-- ✅ لا مكتبات خارجية ثقيلة (بدون React/Vue/Tailwind CDN) → تحميل سريع
-- ✅ `prefers-reduced-motion` مدعوم → تعطيل الحركة لمن يفضّل ذلك
-- ✅ تباين ألوان (Contrast) مناسب على الخلفية الداكنة
-- ✅ عناصر تفاعلية مع `focus-visible` واضح لمستخدمي لوحة المفاتيح
-- ⚠️ لا يوجد اختبار تلقائي (Automated Testing) — الموقع بسيط وثابت بما لا يستدعي ذلك حاليًا
 
 ---
 
