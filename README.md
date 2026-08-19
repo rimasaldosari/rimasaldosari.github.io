@@ -45,13 +45,13 @@ Early-career AI students and developers need a single, trustworthy platform to p
 - نبذة شخصية موجزة ومركّزة
 - بطاقات مشاريع تفاعلية مع الوسوم التقنية وروابط GitHub مباشرة
 - خلفية متحركة (Canvas Animation) تعكس طابع "الشبكات العصبية" بصريًا لتعزيز الهوية التقنية
-- قسم تواصل مباشر (بريد، لينكد إن، GitHub) بدون الحاجة لنموذج خلفي (Backend Form)
+- قسم تواصل مباشر (بريد، LinkedIn، GitHub) 
 
 A single-page, bilingual (primarily Arabic RTL) site that presents:
 - A concise personal bio
 - Interactive project cards with tech tags and direct GitHub links
 - An animated neural-network-style canvas background reinforcing the technical identity
-- A direct contact section (email, LinkedIn, GitHub) with no backend form required
+- A direct contact section (email, LinkedIn, GitHub) 
 
 ---
 
@@ -116,7 +116,7 @@ Google Fonts (Tajawal, JetBrains Mono) — عبر CDN خارجي
 └── .gitignore
 ```
 
-> **ملاحظة:** الـ CSS وJavaScript مدمجين داخل `index.html` نفسه (بدل ملفات منفصلة) لتبسيط الرفع والصيانة عبر واجهة GitHub مباشرة — الصور فقط خارجية لأنها الأثقل حجمًا.
+> **ملاحظة:** الـ CSS وJavaScript مدمجين داخل `index.html` نفسه (بدل ملفات منفصلة) لتبسيط الرفع والصيانة عبر واجهة GitHub مباشرة — وكذلك الصور
 
 ---
 
@@ -151,7 +151,6 @@ Google Fonts (Tajawal, JetBrains Mono) — عبر CDN خارجي
 ## 9. Performance & Accessibility | الأداء وإمكانية الوصول
 
 - ✅ لا مكتبات خارجية ثقيلة (بدون React/Vue/Tailwind CDN) → تحميل سريع
-- ✅ الصور مستقلة عن الكود (وليست Base64) → تحميل متوازٍ وتخزين مؤقت (Caching) أفضل
 - ✅ `prefers-reduced-motion` مدعوم → تعطيل الحركة لمن يفضّل ذلك
 - ✅ تباين ألوان (Contrast) مناسب على الخلفية الداكنة
 - ✅ عناصر تفاعلية مع `focus-visible` واضح لمستخدمي لوحة المفاتيح
@@ -178,5 +177,5 @@ python3 -m http.server 8000
 
 - 📧 Email: [remas142909@gmail.com](mailto:remas142909@gmail.com)
 - 💼 LinkedIn: [rimas-aldosari](https://www.linkedin.com/in/rimas-aldosari-656a23375)
-- 🐙 GitHub: [@rimasaldosari](https://github.com/rimasaldosari)
+- 📁 GitHub: [@rimasaldosari](https://github.com/rimasaldosari)
 
